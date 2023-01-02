@@ -222,3 +222,4 @@ Outputs:
   PrivateSubnetTwo:
     Description: A reference to the private subnet in the 2nd Availability Zone
     Value: !Ref PrivateSubnetTwo
+    
